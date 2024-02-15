@@ -1,0 +1,66 @@
+*{margin:0;
+padding: 0;
+text-align: center;
+}
+
+
+
+    
+
+header{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+
+list-style: none;
+text-decoration: none;
+
+}
+img{height:500px;
+height:500px;
+object-fit: cover;
+
+}
+#wonders{
+    text-align: center;
+    font-size: 3rem;
+    background-color: cornsilk;
+    justify-content: center;
+    margin-bottom: 5px;
+    padding: 10px;
+    color: darkblue;
+    display: flex;
+    flex-direction: column;
+  
+
+}
+a{color:cornsilk;}
+p{font-size: 1rem;
+color: black;}
+.container{
+    margin:2px;
+    border:9rem;
+    
+
+}
+body{text-decoration:none;
+background-color:gray }
+.background-image{
+    background: url(file:///C:/Users/HOUSE/Desktop/new%20js/blog%20of%207%20wonders/images/pexels-pixabay-41949.jpg)no-repeat center center  ;
+background-size: cover;
+display:flex;
+min-height: 100vh;
+align-items: center;
+
+}
+.background_text{
+    font-size: 5rem;
+    justify-content: center;
+    text-align: center;
+    color:azure;
+    box-shadow:  0 0 1rem rgba(0,0,0,0,1);;
+}
+header li{display: inline-block;
+padding: 15px;}
+header h1{padding: 10px;
+color: black;}

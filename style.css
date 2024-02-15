@@ -46,7 +46,7 @@ color: black;}
 body{text-decoration:none;
 background-color:gray }
 .background-image{
-    background: url(images/pexels-pixabay-41949.jpg)no-repeat center center  ;
+    background: url(.images/pexels-pixabay-41949.jpg)no-repeat center center  ;
 background-size: cover;
 display:flex;
 min-height: 100vh;
